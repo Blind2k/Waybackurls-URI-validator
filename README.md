@@ -1,12 +1,12 @@
 # Waybackurls-URI-validator
 
-# This is a complimentary Bash/Shell/zsh script to filter all of the URLs returned from the awysome "waybackurls" tool
+This is a complimentary Bash/Shell/zsh script to filter all of the URLs returned from the awysome "waybackurls" tool  
 -- https://github.com/tomnomnom/waybackurls/tree/master
 
-# This script will:
--- Sort and orgnize the original list from waybackurls
--- Check if the returned URLs still active
--- Completly passive using waybackMachine
+# This script will:  
+-- Sort and orgnize the original list from waybackurls  
+-- Check if the returned URLs still active  
+-- Completly passive using waybackMachine  
 
 If you need any thing, please contact me.
 
